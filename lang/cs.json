@@ -215,7 +215,7 @@
 "nolimitspecified": "/me [@%%NAME%%] Nebyl zadán limit.",
 "invalidlimitspecified": "/me [@%%NAME%%] Neplatný limit.",
 "invalidpositionspecified": "/me [@%%NAME%%] Byla zadána neplatná pozice.",
-"whois": "/me [%%NAME1%%] Uživatelské jméno: %%NAME2%%, ID: %%ID%%, Hodnost: %%RANK%%, Připojen: %%JOINED%%, Úroveň: %%LEVEL%%, Jazyk: %%LANGUAGE%%, Avatar: %%AVATAR%%, Status: %%STATUS%% %%PROFILE%%",
+"whois": "/me [%%NAME1%%] Uživatelské jméno: %%NAME2%%, ID: %%ID%%, Hodnost: %%RANK%%, Připojen: %%JOINED%%, Úroveň: %%LEVEL%%, Jazyk: %%LANGUAGE%%, Avatar: %%AVATAR%%, Status: %%PROFILE%%",
 "toggleon": "/me [@%%NAME%%] %%FUNCTION%% zapnuto.",
 "toggleoff": "/me [@%%NAME%%] %%FUNCTION%% vypnuto.",
 "cmddeletion": "command deletion",
