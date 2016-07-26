@@ -90,6 +90,18 @@
  "ti vrazil/a moravskou facku z dobrého kamarádství."
 ],
 
+"fucks": [
+ "ti vzkazuje: \"Nech mě na pokoji!\"",
+ "ti vzkazuje: \"Neštvi mě!\"",
+ "ti vzkazuje: \"Jdi do háje.\"",
+ "ti vzkazuje: \"Ještě chvíli mě štvi a takovou ti vrazím, že tě vlastní máma nepozná!!!\"",
+ "tě tak moc miluje, že by tě nejradší stáhl/a za živa z kůže!!!",
+ "ti vzkazuje: \"Že tě máma radši nespolkla...\"",
+ "by tě nejradši zakopal/a dva metry pod zem a postavil/a na tobě obchoďák.",
+ "ti vzkazuje: \"Skoč do zdi a pozdravuj cihly.\"",
+ "ti vzkazuje: \"Skoč do zdi a přikryj se omítkou.\"",
+ "ti vzkazuje: \"Šlápni na lego a zakopni o skříň!\""
+
 "hugs": [
  "ti posílá virtuální objetí https://vgy.me/i2OBd7.gif",
  "ti posílá virtuální objetí https://vgy.me/u51Oe9.gif"
@@ -256,6 +268,11 @@
 "selffacka": "/me @%%NAME%% si nafackoval/a.",
 "nouserfacka": "/me Nevidím %%NAME%% v místnosti, takže té osobě asi facku nedáš..",
 "facka": "/me @%%NAMETO%%, @%%NAMEFROM%% %%FACKY%%",
+
+"givefuck": "/me Příkazem !fuck @jmeno projevíš nenávist k osobě.",
+"selffuck": "/me %%NAME%%, vyfuckovat sám/a sebe není zrovna nejlepší nápad.",
+"nouserfuck": "/me Nevidím %%NAME%% v místnosti, takže nadej někomu jinýmu.",
+"fuck": "/me @%%NAMETO%%, @%%NAMEFROM%% %%FUCKS%%",
 
 "givehug": "/me Příkazem !hug @jmeno někoho virtuálně obejmeš.",
 "selfhug": "/me %%NAME%%, nemůžeš obejmout sám/a sebe..",
