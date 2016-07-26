@@ -269,13 +269,13 @@
 "nouserfacka": "/me Nevidím %%NAME%% v místnosti, takže té osobě asi facku nedáš..",
 "facka": "/me @%%NAMETO%%, @%%NAMEFROM%% %%FACKY%%",
 
+"givehug": "/me Příkazem !hug @jmeno někoho virtuálně obejmeš.",
+"selfhug": "/me %%NAME%%, nemůžeš obejmout sám/a sebe..",
+"nouserhug": "/me Nevidím %%NAME%% v místnosti, takže obejmi někoho jinýho.",
+"hug": "/me @%%NAMETO%%, @%%NAMEFROM%% %%HUGS%%",
+
 "givefuck": "/me Příkazem !fuck @jmeno projevíš nenávist k osobě.",
 "selffuck": "/me %%NAME%%, vyfuckovat sám/a sebe není zrovna nejlepší nápad.",
 "nouserfuck": "/me Nevidím %%NAME%% v místnosti, takže nadej někomu jinýmu.",
 "fuck": "/me @%%NAMETO%%, @%%NAMEFROM%% %%FUCKS%%",
-
-"givehug": "/me Příkazem !hug @jmeno někoho virtuálně obejmeš.",
-"selfhug": "/me %%NAME%%, nemůžeš obejmout sám/a sebe..",
-"nouserhug": "/me Nevidím %%NAME%% v místnosti, takže obejmi někoho jinýho.",
-"hug": "/me @%%NAMETO%%, @%%NAMEFROM%% %%HUGS%%"
 }    
