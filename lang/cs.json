@@ -132,6 +132,14 @@
  "tě má tak rád/a, že už to víc ani nejde. <3"
 ], 
 
+"lulus": [
+ "chce trtkat.",
+ "chce vymastit.",
+ "chce vydrnkat.",
+ "chce si pohrát s tebou.",
+ "ti chce vypatexovat byt."
+], 
+
 "nodatafound": "Nebyla nalezena žádná předchozí data.",
 "currentlang": "/me Aktuální jazyk: %%LANGUAGE%%",
 "langerror": "/me Jazyk, který jste si vybral/a, je nedostupný. Prosím, navštivte %%LINK%% k nalezení seznamu dostupných jazyků.",
@@ -312,5 +320,10 @@
 "givelove": "/me Příkazem !love @jmeno vyjádříš někomu, že ho máš rád/a.",
 "selflove": "/me @%%NAME%% miluje sebe..",
 "nouserlove": "/me Nevidím %%NAME%% v místnosti, takže se osoba nedozví, že ji máš rád/a..",
-"love": "/me @%%NAMETO%%, @%%NAMEFROM%% %%LASKA%%"
+"love": "/me @%%NAMETO%%, @%%NAMEFROM%% %%LASKA%%",
+
+"givelulu": "/me Příkazem !lulu projevíš na někom svojí nadrženost.",
+"selflulu": "/me %%NAME%% šel lulu.",
+"nouserlulu": "/me Nevidím %%NAME%% v místnosti, takže ho nevyluluješ.",
+"lulu": "/me @%%NAMETO%%, @%%NAMEFROM%% %%LULUS%%"
 }    
