@@ -96,10 +96,16 @@
  "ti chtěl/a darovat sušenku, ale už ji snědl/a.",
  "ti daroval/a čerstvě upečenou sušenku. Voní úžasně."
 ], 
+
 "facky": [
  "ti jednu vlepil/a.",
  "ti dal/a facku.",
  "ti vrazil/a moravskou facku z dobrého kamarádství."
+],
+
+"hugs": [
+ "ti posílá virtuální objetí http://i.imgur.com/EZXOvFl.gif",
+ "ti posílá virtuální objetí http://i.imgur.com/npZwdNJ.gif"
 ], 
 
 "nodatafound": "Nebyla nalezena žádná předchozí data.",
@@ -267,5 +273,10 @@
 "givebitch": "/me Příkazem !bitch @jmeno někoho pasuješ na osobní bitch.",
 "selfbitch": "/me %%NAME%%, přijde ti normální, dělat bitch sám/a sobě?",
 "nouserbitch": "/me Nevidím %%NAME%% v místnosti, takže pasuj někoho jiného.",
-"bitch": "/me @%%NAMETO%%, @%%NAMEFROM%% %%BITCHES%%"
+"bitch": "/me @%%NAMETO%%, @%%NAMEFROM%% %%BITCHES%%",
+
+"givehug": "/me Příkazem !hug @jmeno někoho virtuálně obejmeš.",
+"selfhug": "/me %%NAME%%, nemůžeš obejmout sám/a sebe..",
+"nouserhug": "/me Nevidím %%NAME%% v místnosti, takže obejmi někoho jinýho.",
+"hug": "/me @%%NAMETO%%, @%%NAMEFROM%% %%HUGS%%"
 }    
