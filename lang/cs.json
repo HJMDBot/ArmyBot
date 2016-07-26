@@ -63,6 +63,19 @@
  "Ano mám rád polohu 69"
 ], 	
 
+"bitches": [
+ "se tě ptá, jestli nechceš být jeho/její bitch.",
+ "tě chce do svého harému.",
+ "tě pasuje na svou osobní bitch.",
+ "chce po tobě ruční práce. Však víš, co tím myslím..",
+ "ti sahá kam nemá.",
+ "má s tebou jisté plány..",
+ "si s tebou chce pohrát.",
+ "si s tebou chce dát sprchu.",
+ "si chce líznout.",
+ "po tobě chce službičku."
+], 
+
 "cookies": [
  "ti daroval/a čokoládovou sušenku.",
  "ti daroval/a starou plesnivou sušenku. FUJ!",
@@ -264,6 +277,11 @@
 "givealkohol": "/me Pozvi někoho na sklenku přes !alkohol @jmeno.",
 "selfalkohol": "/me @%%NAME%% je taková labuť, že lije ten alkáč rovnou do sebe, než aby nabídl/a ostatním.",
 "alkohol": "/me @%%NAMETO%%, %%NAMEFROM%% %%ALKOHOLY%%",
+
+"givebitch": "/me Příkazem !bitch @jmeno někoho pasuješ na osobní bitch.",
+"selfbitch": "/me %%NAME%%, přijde ti normální, dělat bitch sám/a sobě?",
+"nouserbitch": "/me Nevidím %%NAME%% v místnosti, takže pasuj někoho jiného.",
+"bitch": "/me @%%NAMETO%%, @%%NAMEFROM%% %%BITCHES%%",
 
 "givefacka": "/me Příkazem !facka @jmeno někomu vlepíš facku.",
 "selffacka": "/me @%%NAME%% si nafackoval/a.",
