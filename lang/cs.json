@@ -324,6 +324,8 @@
 "selfalkohol": "/me @%%NAME%% je taková labuť, že lije ten alkáč rovnou do sebe, než aby nabídl/a ostatním.",
 "alkohol": "/me @%%NAMETO%%, %%NAMEFROM%% %%ALKOHOLY%%",
 
+"afk": "/me %%NAME%% jde AFK!",
+
 "givebitch": "/me Příkazem !bitch @jmeno někoho pasuješ na osobní bitch.",
 "selfbitch": "/me %%NAME%%, přijde ti normální, dělat bitch sám/a sobě?",
 "nouserbitch": "/me Nevidím %%NAME%% v místnosti, takže pasuj někoho jiného.",
