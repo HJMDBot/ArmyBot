@@ -24,6 +24,7 @@
  "ti uvařil/a čaj s rumem.",
  "ti dal/a panáka Jelzína."
 ], 
+
 "balls": [
  "Hej nechápu, co chceš, ale tak ok.",
  "Sorry nemám čas odpovídat.",
@@ -61,6 +62,7 @@
  "Můžeš chvilinku být zticha?!",
  "Ano mám rád polohu 69"
 ], 	
+
 "cookies": [
  "ti daroval/a čokoládovou sušenku.",
  "ti daroval/a starou plesnivou sušenku. FUJ!",
@@ -81,6 +83,7 @@
  "ti chtěl/a darovat sušenku, ale už ji snědl/a.",
  "ti daroval/a čerstvě upečenou sušenku. Voní úžasně."
 ], 
+
 "nodatafound": "Nebyla nalezena žádná předchozí data.",
 "currentlang": "/me Aktuální jazyk: %%LANGUAGE%%",
 "langerror": "/me Jazyk, který jste si vybral/a, je nedostupný. Prosím, navštivte %%LINK%% k nalezení seznamu dostupných jazyků.",
