@@ -1744,7 +1744,6 @@ alkoholCommand: {
                     }
                 }
             },
-            
             bitchCommand: {
                  command: 'bitch',
                  rank: 'user',
@@ -1780,7 +1779,6 @@ alkoholCommand: {
                      }
                  }
              },
-
             baCommand: {
                 command: 'ba',
                 rank: 'user',
