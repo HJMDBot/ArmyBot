@@ -366,6 +366,8 @@
 "nousersklep": "/me Nevidím %%NAME%% v místnosti, takže zamkni do sklepa někoho jinýho.",
 "sklep": "/me @%%NAMETO%%, @%%NAMEFROM%% %%SKLEPOVKY%%",
 
+"zpet": "/me %%NAME%% se vrátil/a zpět!",
+
 "givezvire": "/me Příkazem !zvire @jmeno řekneš o někom, jaký je zvíře.",
 "selfzvire": "/me Říkat o sobě, jaké jsi zvíře zavání egem. Haah, to jsem tě dostal %%NAME%% ",
 "nouserzvire": "/me Nevidím %%NAME%% v místnosti, takže asi zdrhl/a opice.",
