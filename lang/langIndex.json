@@ -1,1 +1,16 @@
 
+{
+    "czech": "https://rawgit.com/ErikaPlugdj/ArmyBot/master/lang/cs.json",
+    "german": "https://rawgit.com/ErikaPlugdj/ArmyBot/master/lang/de.json",
+    "english": "https://rawgit.com/ErikaPlugdj/ArmyBot/master/lang/en.json",
+    "spanish": "https://rawgit.com/ErikaPlugdj/ArmyBot/master/lang/es-ES.json",
+    "french": "https://rawgit.com/ErikaPlugdj/ArmyBot/master/lang/fr.json",
+    "latvian": "https://rawgit.com/ErikaPlugdj/ArmyBot/master/lang/lv-LV.json",
+    "malay": "https://rawgit.com/ErikaPlugdj/ArmyBot/master/lang/ms.json",
+    "dutch": "https://rawgit.com/ErikaPlugdj/ArmyBot/master/lang/nl.json",
+    "polish": "https://rawgit.com/ErikaPlugdj/ArmyBot/master/lang/pl.json",
+    "portuguese": "https://rawgit.com/ErikaPlugdj/ArmyBot/master/lang/pt-BR.json",
+    "serbian": "https://rawgit.com/ErikaPlugdj/ArmyBot/master/lang/sr.json",
+    "turkish": "https://rawgit.com/ErikaPlugdj/ArmyBot/master/lang/tr.json",
+    "chinese": "https://rawgit.com/ErikaPlugdj/ArmyBot/master/lang/zh-TW.json"
+}
