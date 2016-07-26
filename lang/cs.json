@@ -159,6 +159,9 @@
  "ti koupil/a nutellu, ale cestou k tobě ji snědl/a."
 ], 
 
+"poke":
+ "tě šťouchl/a."
+
 "sklepovky": [
  "tě zve na loupání brambor do sklepa.",
  "tě odtáhnul/a do sklepa.",
@@ -365,6 +368,11 @@
 "selfsklep": "/me @%%NAME%%, zvát se sám/a sebe do sklepa není zrovna nejvhodnější. ",
 "nousersklep": "/me Nevidím %%NAME%% v místnosti, takže zamkni do sklepa někoho jinýho.",
 "sklep": "/me @%%NAMETO%%, @%%NAMEFROM%% %%SKLEPOVKY%%",
+
+"givestouchnout": "/me Příkazem !stouchnout @jmeno lze někoho šťouchnout.",
+"selfstouchnout": "/me @%%NAME%% se šťouchl/a.",
+"nouserstouchnout": "/me Nevidím %%NAME%% v místnosti.",
+"stouchnout": "/me @%%NAMETO%%, @%%NAMEFROM%% %%POKE%%",
 
 "zpet": "/me %%NAME%% se vrátil/a zpět!",
 
