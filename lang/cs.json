@@ -159,6 +159,14 @@
  "ti koupil/a nutellu, ale cestou k tobě ji snědl/a."
 ], 
 
+"sklepovky": [
+ "tě zve na loupání brambor do sklepa.",
+ "tě odtáhnul/a do sklepa.",
+ "ti nabízí apartmán o pěti hvězdičkách ve sklepě.",
+ "ti udělá menší prohlídku sklepem.",
+ "má s tebou nekalé úmysly ve sklepě."
+], 
+
 "nodatafound": "Nebyla nalezena žádná předchozí data.",
 "currentlang": "/me Aktuální jazyk: %%LANGUAGE%%",
 "langerror": "/me Jazyk, který jste si vybral/a, je nedostupný. Prosím, navštivte %%LINK%% k nalezení seznamu dostupných jazyků.",
@@ -350,6 +358,11 @@
 "selflulu": "/me %%NAME%% šel lulu.",
 "nouserlulu": "/me Nevidím %%NAME%% v místnosti, takže ho nevyluluješ.",
 "lulu": "/me @%%NAMETO%%, @%%NAMEFROM%% %%LULUS%%",
+
+"givesklep": "/me Příkazem !sklep @jmeno pozveš někoho do sklepa.",
+"selfsklep": "/me @%%NAME%%, zvát se sám/a sebe do sklepa není zrovna nejvhodnější. ",
+"nousersklep": "/me Nevidím %%NAME%% v místnosti, takže zamkni do sklepa někoho jinýho.",
+"sklep": "/me @%%NAMETO%%, @%%NAMEFROM%% %%SKLEPOVKY%%",
 
 "givezvire": "/me Příkazem !zvire @jmeno řekneš o někom, jaký je zvíře.",
 "selfzvire": "/me Říkat o sobě, jaké jsi zvíře zavání egem. Haah, to jsem tě dostal %%NAME%% ",
