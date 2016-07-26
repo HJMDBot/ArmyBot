@@ -148,6 +148,17 @@
  "ti chce vypatexovat byt."
 ], 
 
+"obchod": [
+ "ti koupil/a zákusky, abys přibral/a.",
+ "ti koupil/a smítko prachu z velké lásky k tobě. :heart:",
+ "ti koupil/a zrcadlo, aby ses do něj konečně podíval/a.",
+ "ti koupil/a kolo, abys zhubl/a.",
+ "ti koupil/a pořádnou židli, ať máš na čem sedět.",
+ "ti koupil/a zájezd do Sýrie, protože se tě chce zbavit.",
+ "ti chtěl/a něco koupit, ale radši to koupil/a sobě..",
+ "ti koupil/a nutellu, ale cestou k tobě ji snědl/a."
+], 
+
 "nodatafound": "Nebyla nalezena žádná předchozí data.",
 "currentlang": "/me Aktuální jazyk: %%LANGUAGE%%",
 "langerror": "/me Jazyk, který jste si vybral/a, je nedostupný. Prosím, navštivte %%LINK%% k nalezení seznamu dostupných jazyků.",
@@ -324,6 +335,11 @@
 "selfhug": "/me %%NAME%%, nemůžeš obejmout sám/a sebe..",
 "nouserhug": "/me Nevidím %%NAME%% v místnosti, takže obejmi někoho jinýho.",
 "hug": "/me @%%NAMETO%%, @%%NAMEFROM%% %%HUGS%%",
+
+"givekoupit": "/me Příkazem !koupit @jmeno někomu něco koupíš.",
+"selfkoupit": "/me %%NAME%% si koupil/a čokoládu. ",
+"nouserkoupit": "/me Nevidím %%NAME%% v místnosti, takže má smůlu a koupit to můžeš někomu jinýmu.",
+"koupit": "/me @%%NAMETO%%, @%%NAMEFROM%% %%OBCHOD%%",
 
 "givelove": "/me Příkazem !love @jmeno vyjádříš někomu, že ho máš rád/a.",
 "selflove": "/me @%%NAME%% miluje sebe..",
