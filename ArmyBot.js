@@ -236,7 +236,7 @@
     var botCreatorIDs = ["3851534", "4105209"];
 
     var basicBot = {
-        version: "2.9.1",
+        version: "3.1.1",
         status: false,
         name: "ArmyBot",
         loggedInID: null,
@@ -254,7 +254,7 @@
             scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
-            startupVolume: 0, // 0-100
+            startupVolume: 100, // 0-100
             startupEmoji: true, // true or false
             autowoot: true,
             autoskip: false,
@@ -306,7 +306,7 @@
             website: "http://tinyurl.com/HJMDweb",
             intervalMessages: [],
             messageInterval: 5,
-            songstats: true,
+            songstats: false,
             commandLiteral: "!",
             blacklists: {
                 NSFW: "https://rawgit.com/ErikaPlugdj/custom/master/blacklist/NSFWlist.json",
@@ -379,7 +379,8 @@
                     var ind = Math.floor(Math.random() * basicBot.room.roulette.participants.length);
                     var winner = basicBot.room.roulette.participants[ind];
                     basicBot.room.roulette.participants = [];
-                    var pos = Math.floor((Math.random() * API.getWaitList().length) + 1);
+                    var cisla = ["1", "2", "3", "4", "5"];
+                    var pos = cisla[Math.floor((Math.random() * cisla.length)];
                     var user = basicBot.userUtilities.lookupUser(winner);
                     var name = user.username;
                     API.sendChat(subChat(basicBot.chat.winnerpicked, {name: name, position: pos}));
