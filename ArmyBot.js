@@ -2104,7 +2104,7 @@ bitchCommand: {
             },
 
             dclookupCommand: {
-                command: ['dclookup', 'dc'],
+                command: 'dc',
                 rank: 'user',
                 type: 'startsWith',
                 functionality: function (chat, cmd) {
