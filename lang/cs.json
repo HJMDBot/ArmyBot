@@ -121,6 +121,17 @@
  "ti posílá virtuální objetí https://vgy.me/u51Oe9.gif"
 ], 
 
+"laska": [
+ "tě má rád/a. <3 ",
+ "tě miluje. <3",
+ "ti vyznává lásku. <3",
+ "ti zazpíval/a píseň lásky. <3",
+ "ti vzkazuje: \"Jsi můj miláček.\" <3",
+ "ti vzkazuje: \"I Love You.\" <3",
+ "ti vzkazuje: \"Jsi podle mě dokonalý/á\" <3",
+ "tě má tak rád/a, že už to víc ani nejde. <3"
+], 
+
 "nodatafound": "Nebyla nalezena žádná předchozí data.",
 "currentlang": "/me Aktuální jazyk: %%LANGUAGE%%",
 "langerror": "/me Jazyk, který jste si vybral/a, je nedostupný. Prosím, navštivte %%LINK%% k nalezení seznamu dostupných jazyků.",
@@ -296,5 +307,10 @@
 "givehug": "/me Příkazem !hug @jmeno někoho virtuálně obejmeš.",
 "selfhug": "/me %%NAME%%, nemůžeš obejmout sám/a sebe..",
 "nouserhug": "/me Nevidím %%NAME%% v místnosti, takže obejmi někoho jinýho.",
-"hug": "/me @%%NAMETO%%, @%%NAMEFROM%% %%HUGS%%"
+"hug": "/me @%%NAMETO%%, @%%NAMEFROM%% %%HUGS%%",
+
+"givelove": "/me Příkazem !love @jmeno vyjádříš někomu, že ho máš rád/a.",
+"selflove": "/me @%%NAME%% miluje sebe..",
+"nouserlove": "/me Nevidím %%NAME%% v místnosti, takže se osoba nedozví, že ji máš rád/a..",
+"love": "/me @%%NAMETO%%, @%%NAMEFROM%% %%LASKA%%"
 }    
