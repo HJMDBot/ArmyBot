@@ -25,19 +25,6 @@
  "ti dal/a panáka Jelzína."
 ], 
 
-"bitches": [
- "se tě ptá, jestli nechceš být jeho/její bitch.",
- "tě chce do svého harému.",
- "tě pasuje na svou osobní bitch.",
- "chce po tobě ruční práce. Však víš, co tím myslím..",
- "ti sahá kam nemá.",
- "má s tebou jisté plány..",
- "si s tebou chce pohrát.",
- "si s tebou chce dát sprchu.",
- "si chce líznout.",
- "po tobě chce službičku."
-], 
-
 "balls": [
  "Hej nechápu, co chceš, ale tak ok.",
  "Sorry nemám čas odpovídat.",
@@ -104,8 +91,8 @@
 ],
 
 "hugs": [
- "ti posílá virtuální objetí http://i.imgur.com/EZXOvFl.gif",
- "ti posílá virtuální objetí http://i.imgur.com/npZwdNJ.gif"
+ "ti posílá virtuální objetí https://vgy.me/i2OBd7.gif",
+ "ti posílá virtuální objetí https://vgy.me/u51Oe9.gif"
 ], 
 
 "nodatafound": "Nebyla nalezena žádná předchozí data.",
@@ -269,11 +256,6 @@
 "selffacka": "/me @%%NAME%% si nafackoval/a.",
 "nouserfacka": "/me Nevidím %%NAME%% v místnosti, takže té osobě asi facku nedáš..",
 "facka": "/me @%%NAMETO%%, @%%NAMEFROM%% %%FACKY%%",
-
-"givebitch": "/me Příkazem !bitch @jmeno někoho pasuješ na osobní bitch.",
-"selfbitch": "/me %%NAME%%, přijde ti normální, dělat bitch sám/a sobě?",
-"nouserbitch": "/me Nevidím %%NAME%% v místnosti, takže pasuj někoho jiného.",
-"bitch": "/me @%%NAMETO%%, @%%NAMEFROM%% %%BITCHES%%",
 
 "givehug": "/me Příkazem !hug @jmeno někoho virtuálně obejmeš.",
 "selfhug": "/me %%NAME%%, nemůžeš obejmout sám/a sebe..",
