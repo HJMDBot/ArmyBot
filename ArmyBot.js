@@ -2269,6 +2269,7 @@ fackaCommand: {
                      }
                  }
              },
+             
              fuckCommand: {
                  command: 'fuck',
                  rank: 'user',
@@ -2304,6 +2305,7 @@ fackaCommand: {
                      }
                  }
              },
+             
             fbCommand: {
                 command: 'fb',
                 rank: 'user',
