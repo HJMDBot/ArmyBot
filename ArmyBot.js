@@ -3331,6 +3331,7 @@ sklepCommand: {
                      }
                  }
              },
+             
              stouchnoutCommand: {
                 command: ['stouchnout', 'poke'],
                 rank: 'user',
