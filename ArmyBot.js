@@ -380,7 +380,7 @@
                     var winner = basicBot.room.roulette.participants[ind];
                     basicBot.room.roulette.participants = [];
                     var cisla = ["1", "2", "3", "4", "5"];
-                    var pos = cisla[Math.floor((Math.random() * cisla.length)];
+                    var pos = cisla[Math.floor(Math.random() * cisla.length)];
                     var user = basicBot.userUtilities.lookupUser(winner);
                     var name = user.username;
                     API.sendChat(subChat(basicBot.chat.winnerpicked, {name: name, position: pos}));
