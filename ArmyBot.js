@@ -242,7 +242,7 @@
         loggedInID: null,
         scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
-        chatLink: "hhttps://rawgit.com/ErikaPlugdj/ArmyBot/master/lang/cs.json",
+        chatLink: "https://rawgit.com/ErikaPlugdj/ArmyBot/master/lang/cs.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
