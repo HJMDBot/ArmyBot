@@ -3333,7 +3333,7 @@ sklepCommand: {
              },
              
             stouchnoutCommand: {
-                command: ['stouchnout', 'poke'],
+                command: 'stouchnout',
                 rank: 'user',
                 type: 'startsWith',
                 getpoke: function (chat) {
