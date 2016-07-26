@@ -25,6 +25,14 @@
  "ti dal/a panáka Jelzína."
 ], 
 
+"animal": [
+ "si o tobě myslí, že seš jak hlemýžď, protože se taky v tom nejhorším plazíš domů. https://media.giphy.com/media/RCBQSWiMPTQly/giphy.gif",
+ "ti říká, že seš jak panda. Taky se do všeho vrháš po hlavě. https://media.giphy.com/media/ZeB4HcMpsyDo4/giphy.gif",
+ "ti říká, že i žirafa jezdí líp na motorce než ty. https://media.giphy.com/media/d69JfszXz2xwY/giphy.gif",
+ "ti povídá, že seš jako pes. Taky kašleš na nějaký kluzký podlahy. https://media.giphy.com/media/iOTuHS11PzztS/giphy.gif",
+ "ti povídá, že seš jako liška. Někdy si vybereš moc velkej cíl, no.. https://media.giphy.com/media/nvooCzHZtB9n2/giphy.gif"
+],
+
 "balls": [
  "Hej nechápu, co chceš, ale tak ok.",
  "Sorry nemám čas odpovídat.",
@@ -325,5 +333,10 @@
 "givelulu": "/me Příkazem !lulu projevíš na někom svojí nadrženost.",
 "selflulu": "/me %%NAME%% šel lulu.",
 "nouserlulu": "/me Nevidím %%NAME%% v místnosti, takže ho nevyluluješ.",
-"lulu": "/me @%%NAMETO%%, @%%NAMEFROM%% %%LULUS%%"
-}    
+"lulu": "/me @%%NAMETO%%, @%%NAMEFROM%% %%LULUS%%",
+
+"givezvire": "/me Příkazem !zvire @jmeno řekneš o někom, jaký je zvíře.",
+"selfzvire": "/me Říkat o sobě, jaké jsi zvíře zavání egem. Haah, to jsem tě dostal %%NAME%% ",
+"nouserzvire": "/me Nevidím %%NAME%% v místnosti, takže asi zdrhl/a opice.",
+"zvire": "/me @%%NAMETO%%, @%%NAMEFROM%% %%ANIMAL%%"
+}
