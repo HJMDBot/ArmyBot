@@ -116,7 +116,7 @@ bot.commands.gdgrabCommand = {
                 if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
                 if (!bot.commands.executable(this.rank, chat)) return void (0);
                 else {
-                  API.sendChat("/me TOP STATISTIKY: 1. Akacik: 1,02 bilión bodů, 2. LegeeeX: 29MLD bodů, 3. GodlikeSM: 156M bodů. 4. Krucifix: 12K bodů, 5. Vidie: 10K bodů");
+                  API.sendChat("/me TOP STATISTIKY: 1. Účet1: 0 bodů, 2. Účet2: 0 bodů, 3. Účet3: 0 bodů. 4. Účet5: 0 bodů, 5. Účet6: 0 bodů");
 
                 }
               }
