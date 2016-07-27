@@ -133,12 +133,12 @@ bot.commands.gdgrabCommand = {
                 else {
                 var user = chat.un;
                     localStorage.clear();
-                    localStorage.setItem("Účet1", "0");
-                    localStorage.setItem("Účet2", "0");
-                    localStorage.setItem("Účet3", "0");
-                    localStorage.setItem("Účet4", "0");
-                    localStorage.setItem("Účet5", "0");
-                    localStorage.setItem("Účet6", "0");
+                    localStorage.setItem("ErikaSvk", "5000");
+                    localStorage.setItem("Helčááá", "5000");
+                    localStorage.setItem("Skřítek", "5000");
+                    localStorage.setItem("Master:Killer_CZ", "5000");
+                    localStorage.setItem("R3P1", "5000");
+                    localStorage.setItem("Jeanis", "5000");
                     localStorage.setItem("Účet7", "0");
                     API.sendChat("/me Administrátor " + user + " resetoval body.");
                     
