@@ -116,7 +116,7 @@ bot.commands.gdgrabCommand = {
                 if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
                 if (!bot.commands.executable(this.rank, chat)) return void (0);
                 else {
-                  API.sendChat("/me TOP STATISTIKY: 1. Účet1: 0 bodů, 2. Účet2: 0 bodů, 3. Účet3: 0 bodů. 4. Účet5: 0 bodů, 5. Účet6: 0 bodů");
+                  API.sendChat("/me TOP STATISTIKY: 1. Jeanis: 25600 bodů, 2. R3P1: 20K bodů, 3. Helčááá: 15K bodů. 4. Skřítek: 10K bodů, 5. ZavislakCZLP: 7K bodů");
 
                 }
               }
@@ -132,11 +132,11 @@ bot.commands.gdgrabCommand = {
                 else {
                 var user = chat.un;
                     localStorage.clear();
-                    localStorage.setItem("Účet1", "0");
-                    localStorage.setItem("Účet2", "0");
-                    localStorage.setItem("Účet3", "0");
-                    localStorage.setItem("Účet4", "0");
-                    localStorage.setItem("Účet5", "0");
+                    localStorage.setItem("Jeanis", "25600");
+                    localStorage.setItem("R3P1", "20000");
+                    localStorage.setItem("Helčááá", "15000");
+                    localStorage.setItem("Skřítek", "10000");
+                    localStorage.setItem("ZavislakCZLP", "7000");
                     localStorage.setItem("Účet6", "0");
                     localStorage.setItem("Účet7", "0");
                     API.sendChat("/me Administrátor " + user + " resetoval body.");
