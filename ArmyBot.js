@@ -1186,17 +1186,6 @@
                     } 
                 }
                 
-                 var plugRoomLinkPatt = /(\bplug\.dj[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig;
-                 if (plugRoomLinkPatt.exec(msg)) {
-                    if (perm === 0) {
-                        API.sendChat(subChat(basicBot.chat.roomadvertising, {name: chat.un}));
-                        API.moderateBanUser(user.id, 1, API.BAN.PERMA);
-                        API.moderateDeleteChat(chat.cid);
-                        return true;
-                        
-                    } 
-                }
-                
                 if (msg.indexOf('http://adf.ly/') > -1) {
                     API.moderateDeleteChat(chat.cid);
                     API.sendChat(subChat(basicBot.chat.adfly, {name: chat.un}));
@@ -3174,19 +3163,6 @@ loveCommand: {
                 }
             },
             
-            prikazyCommand: {
-                 command: 'prikazy',
-                 rank: 'user',
-                 type: 'exact',
-                 functionality: function (chat, cmd) {
-                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
-                     if (!basicBot.commands.executable(this.rank, chat)) return void (0);
-                     else {
-                         API.sendChat(basicBot.chat.prikazy);
-                     }
-                 }
-             },
-             
             refreshCommand: {
                 command: 'refresh',
                 rank: 'manager',
