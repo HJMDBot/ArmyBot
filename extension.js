@@ -531,7 +531,7 @@ bot.commands.gdgrabCommand = {
       usercommandsEnabled: true,
       thorCommand: false,
       thorCooldown: 10,
-      skipPosition: 3,
+      skipPosition: 5,
       skipReasons: [
       ["theme", "This song does not fit the room theme. "],
       ["op", "This song is on the OP list. "],
@@ -557,7 +557,7 @@ bot.commands.gdgrabCommand = {
       website: "http://tinyurl.com/HJMDweb",
       intervalMessages: [],
       messageInterval: 5,
-      songstats: true,
+      songstats: false,
       commandLiteral: "!",
       blacklists: {
         NSFW: "https://rawgit.com/ErikaPlugdj/custom/master/blacklist/NSFWlist.json",
