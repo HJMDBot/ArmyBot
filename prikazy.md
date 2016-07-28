@@ -115,6 +115,7 @@ Nové Příkazy
 ----
 |Příkaz | Argument |  Popis |
 |:------:|:---------:|:--------------------------------------:|
+|!prikazy | | Poskytne link na seznam příkazů. |
 |!koupit | @jméno | Koupí náhodou věc uživateli. |
 |!alkohol | @jméno | Dá uživateli panáka alkoholu. |
 |!cookie | @jméno | Pošle uživateli sušenku. |
